@@ -44,3 +44,4 @@
 	}
 
 customElements.define("com-sap-mycoloredbox-styling", ColoredBoxStylingPanel);
+})();
